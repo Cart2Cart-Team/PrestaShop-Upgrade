@@ -1,6 +1,6 @@
 # PrestaShop Upgrade
 ## Overview
-Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from current PrestaShop store to new PrestaShop store stress-free and without technical knowledge. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current PrestaShop store. Thus, you’ll be able to move your current PrestaShop store entities, including products, orders, customers, etc. to new PrestaShop store in a totally automated way.
+Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data [from current PrestaShop store to new PrestaShop store](https://www.shopping-cart-migration.com/shopping-cart-migration-options/253-prestashop-to-prestashop-migration?utm_source=github.com&utm_medium=referral&utm_term=prestashop-upgrade&utm_campaign=optimized-page) stress-free and without technical knowledge. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current PrestaShop store. Thus, you’ll be able to move your current PrestaShop store entities, including products, orders, customers, etc. to new PrestaShop store in a totally automated way.
 
 ## What Data Can be Migrated?
 Cart2Cart will assist you in moving the following data entities from current PrestaShop to new PrestaShop store:
@@ -15,7 +15,7 @@ Cart2Cart will assist you in moving the following data entities from current Pre
 * **_Blog Posts_** (Title, Full Description, Short Description, Tags, SEO URL, Author, Post Redirects, Images).
 
 
-To get the full list of transferable entities, please check the table here.
+To get the full list of transferable entities, please check the table [here.](https://www.shopping-cart-migration.com/shopping-cart-migration-options/253-prestashop-to-prestashop-migration?utm_source=github.com&utm_medium=referral&utm_term=prestashop-upgrade&utm_campaign=optimized-page)
 
 ## What Are the Additional Migration Options?
 Users have the ability to choose some of the extra migration options to make the replatforming even more seamless and trouble-free:
@@ -37,9 +37,9 @@ Users have the ability to choose some of the extra migration options to make the
 * **Launch the Full migration** to start the PrestaShop database transfer to your new PrestaShop store.
 
 
-Watch our video tutorial to see how easy it is to automatically upgrade PrestaShop store with the help of the Cart2Cart migration tool.
+Watch our [video tutorial](https://www.youtube.com/watch?v=VTEcXuCMjfQ?utm_source=github.com&utm_medium=referral&utm_term=prestashop-upgrade&utm_campaign=optimized-page) to see how easy it is to automatically upgrade PrestaShop store with the help of the Cart2Cart migration tool.
 
-Check the detailed guide on PrestaShop upgrade migration.
+Check the detailed [guide on PrestaShop upgrade migration.](https://www.shopping-cart-migration.com/migration-guides/upgrade-prestashop-1-6-to-1-7-and-level-up-your-store-detailed-guide-included?utm_source=github.com&utm_medium=referral&utm_term=prestashop-upgrade&utm_campaign=optimized-page)
 
 
 ## Why Choose Cart2Cart?
@@ -49,4 +49,4 @@ Check the detailed guide on PrestaShop upgrade migration.
 * **24/7 customer support** via live chat, phone, or ticket assistance.
 * **Flexible pricing policy.** The total migration cost depends on the amount of data you move to new PrestaShop store and the additional options you select.
 * **Free demo available.** Move a limited number of data from current PrestaShop to new PrestaShop store just within 30 minutes. No risk involved, no credit card required.
-* **Extensive FAQ section** that provides customers with the answers to the most common questions concerning PrestaShop migration.
+* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/16-prestashop?utm_source=github.com&utm_medium=referral&utm_term=prestashop-upgrade&utm_campaign=optimized-page)** that provides customers with the answers to the most common questions concerning PrestaShop migration.
